@@ -1,16 +1,15 @@
-# React + Vite
+# 🖥️ PcPricer - Listing Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**PcPricer** is a specialized tool designed for PC resellers and tech enthusiasts to automate the creation of sales listings for computers and components. The project focuses on speed, ease of use, and quick ROI (Return on Investment) calculations.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
+* **Listing Generator:** Automatically creates structured, professional descriptions for different platforms.
+* **ROI Calculator:** Instantly calculates profit margins based on purchase price and logistical costs.
+* **Mobile-Responsive:** Optimized for seamless use on both desktop and mobile devices.
+* **Modern Stack:** Built with Vite and React for high performance and a smooth user experience.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technology Stack
+* **Frontend:** React.js
+* **Build Tool:** Vite
